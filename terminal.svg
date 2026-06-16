@@ -15,8 +15,7 @@
   </text>
   <text x="195" y="95" font-family="monospace" font-size="13" fill="#6e40c9" font-weight="bold">
     <tspan x="195" dy="0" fill="#6e40c9">>_</tspan>
-    <tspan x="215" dy="0" fill="#58a6ff">building Advance-Pocket (GBA emulator)</tspan>
-    <tspan fill="#58a6ff"><animate attributeName="opacity" values="0;1;0" dur="1s" repeatCount="indefinite"/>|</tspan>
+    <tspan x="215" dy="0" fill="#58a6ff">building Advance-Pocket (GBA emulator)<tspan fill="#58a6ff"><animate attributeName="opacity" values="0;1;0" dur="1s" repeatCount="indefinite"/>|</tspan></tspan>
   </text>
   <circle cx="500" cy="100" r="1.5" fill="#6e40c9" opacity="0">
     <animate attributeName="cy" values="100;60" dur="3s" repeatCount="indefinite"/>
