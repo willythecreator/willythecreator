@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 120" width="600" height="120">
+  <rect width="600" height="120" fill="#0d1117" rx="8"/>
+  <rect x="0" y="0" width="600" height="28" fill="#161b22" rx="8"/>
+  <circle cx="16" cy="14" r="5" fill="#ff5f57"/>
+  <circle cx="32" cy="14" r="5" fill="#ffbd2e"/>
+  <circle cx="48" cy="14" r="5" fill="#28c840"/>
+
+  <text x="70" y="19" font-family="monospace" font-size="11" fill="#8b949e">willythecreator@dev:~$</text>
+
+  <text x="195" y="55" font-family="monospace" font-size="13" fill="#6e40c9" font-weight="bold">
+    <tspan x="195" dy="0" fill="#6e40c9">&gt;_</tspan>
+    <tspan x="215" dy="0" fill="#c9d1d9">self-taught developer</tspan>
+  </text>
+
+  <text x="195" y="75" font-family="monospace" font-size="13" fill="#6e40c9" font-weight="bold">
+    <tspan x="195" dy="0" fill="#6e40c9">&gt;_</tspan>
+    <tspan x="215" dy="0" fill="#c9d1d9">systems  .  emulation  .  cosmos</tspan>
+  </text>
+
+  <text x="195" y="95" font-family="monospace" font-size="13" fill="#6e40c9" font-weight="bold">
+    <tspan x="195" dy="0" fill="#6e40c9">&gt;_</tspan>
+    <tspan class="typing" x="215" dy="0" fill="#58a6ff">building Advance-Pocket (GBA emulator)</tspan>
+  </text>
+
+  <rect x="215" y="87" width="8" height="14" fill="#58a6ff" opacity="0">
+    <animate attributeName="opacity" values="0;1;0" dur="1s" repeatCount="indefinite"/>
+  </rect>
+
+  <circle cx="500" cy="100" r="1.5" fill="#6e40c9" opacity="0">
+    <animate attributeName="cy" values="100;60" dur="3s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.8;0" dur="3s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="520" cy="110" r="1" fill="#58a6ff" opacity="0">
+    <animate attributeName="cy" values="110;50" dur="4s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.6;0" dur="4s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="540" cy="95" r="1.5" fill="#6e40c9" opacity="0">
+    <animate attributeName="cy" values="95;55" dur="3.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.7;0" dur="3.5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="560" cy="105" r="1" fill="#c9d1d9" opacity="0">
+    <animate attributeName="cy" values="105;45" dur="5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.5;0" dur="5s" repeatCount="indefinite"/>
+  </circle>
+  <circle cx="480" cy="90" r="1" fill="#58a6ff" opacity="0">
+    <animate attributeName="cy" values="90;50" dur="2.5s" repeatCount="indefinite"/>
+    <animate attributeName="opacity" values="0;0.9;0" dur="2.5s" repeatCount="indefinite"/>
+  </circle>
+</svg>
