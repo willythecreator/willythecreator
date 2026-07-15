@@ -1,20 +1,24 @@
 <div align="center">
 
-# Willy
+<img src="matrix-header.svg" width="100%" alt="matrix header" />
 
 <img src="terminal.svg" width="600" alt="terminal" />
 
-**`self-taught . systems . emulation . cosmos`**
+<a href="https://github.com/willythecreator">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=600&lines=booting+REAPER-OS...;compiling+Advance-Pocket...;tracing+geodesics+around+a+black+hole...;optimize.+right.+interesting." alt="Typing SVG" />
+</a>
 
-[![Repo](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2Fwillythecreator%2Fwillythecreator&query=%24.forks&style=flat&label=forks&color=6e40c9)]()
-[![Stars](https://img.shields.io/github/stars/willythecreator?style=flat&label=stars&color=6e40c9)]()
-[![Followers](https://img.shields.io/github/followers/willythecreator?style=flat&label=followers&color=6e40c9)]()
+<br>
+
+[![Repo](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Frepos%2Fwillythecreator%2Fwillythecreator&query=%24.forks&style=flat&label=forks&color=00ff41&labelColor=0d1117)]()
+[![Stars](https://img.shields.io/github/stars/willythecreator?style=flat&label=stars&color=00ff41&labelColor=0d1117)]()
+[![Followers](https://img.shields.io/github/followers/willythecreator?style=flat&label=followers&color=00ff41&labelColor=0d1117)]()
 
 </div>
 
 ---
 
-### Orbit
+### `> Orbit`
 
 ```yaml
 location: Madrid, Spain
@@ -27,21 +31,21 @@ learning: [CS50, LLMs, AI security, systems programming]
 philosophy: "Optimize, right, interesting."
 ```
 
-### Tech Stack
+### `> Tech Stack`
 
 <p align="center">
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=000" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=fff" />
-  <img src="https://img.shields.io/badge/Rust-000?style=for-the-badge&logo=rust&logoColor=fff" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=000" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=fff" />
+  <img src="https://img.shields.io/badge/C-0d1117?style=for-the-badge&logo=c&logoColor=00ff41" />
+  <img src="https://img.shields.io/badge/C++-0d1117?style=for-the-badge&logo=cplusplus&logoColor=00ff41" />
+  <img src="https://img.shields.io/badge/Python-0d1117?style=for-the-badge&logo=python&logoColor=00ff41" />
+  <img src="https://img.shields.io/badge/Java-0d1117?style=for-the-badge&logo=openjdk&logoColor=00ff41" />
+  <img src="https://img.shields.io/badge/Rust-0d1117?style=for-the-badge&logo=rust&logoColor=00ff41" />
+  <img src="https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=00ff41" />
+  <img src="https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=00ff41" />
 </p>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:00ff41&height=2&section=header" width="100%" />
 
-### Projects
+### `> Projects`
 
 <details open>
 <summary><b>Emulation</b></summary>
@@ -59,7 +63,7 @@ philosophy: "Optimize, right, interesting."
 
 | Project | Description |
 |---------|-------------|
-| Schwarzschild Black Hole Geodesic Tracer | Ray-trace photon paths around a black hole |
+| Schwarzschild Black Hole Geodesic Tracer | Real-time GPU geodesic ray tracer with accretion disk, Doppler beaming, FBM turbulence (C++/OpenGL/GLSL) |
 | Gravitational Lensing Ray Tracer | Simulate lensing from massive objects |
 | Three-Body Problem Visualizer | Chaotic N-body orbital mechanics |
 | Two-Body Gravitational Orbit Simulator | Classical orbital dynamics |
@@ -118,26 +122,32 @@ philosophy: "Optimize, right, interesting."
 
 </details>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0d1117,100:00ff41&height=2&section=header" width="100%" />
 
-### Stats
+### `> Stats`
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=willythecreator&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=6e40c9&title_color=6e40c9" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=willythecreator&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=6e40c9" />
+  <img height="180" src="https://github-readme-stats-beta-blush-29.vercel.app/api?username=willythecreator&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00ff41&icon_color=00ff41&text_color=c9d1d9&border_color=00ff41" />
+  <img height="180" src="https://github-readme-stats-beta-blush-29.vercel.app/api/top-langs/?username=willythecreator&layout=compact&hide_border=true&bg_color=0d1117&title_color=00ff41&text_color=c9d1d9&border_color=00ff41" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=willythecreator&theme=discord&no-frame=true&column=4&margin-w=15" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=willythecreator&hide_border=true&background=0d1117&stroke=00ff41&ring=00ff41&fire=00ff41&currStreakLabel=00ff41&sideLabels=c9d1d9&dates=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9" />
 </p>
 
----
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=willythecreator&theme=darkhub&no-frame=true&column=4&margin-w=15&title_color=00ff41&text_color=c9d1d9&icon_color=00ff41&background=0d1117" />
+</p>
+
+### `> Contribution Graph`
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/willythecreator/willythecreator/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 
 <p align="center">
   <i>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."</i><br>
   <sub>-- Martin Fowler</sub>
 </p>
 
-<p align="center">
-  <sub>Madrid, Spain -- Building things that are fast, correct, and interesting</sub>
-</p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff41&height=100&section=footer" width="100%" />
