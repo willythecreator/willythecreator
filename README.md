@@ -146,8 +146,8 @@ philosophy: "Optimize, right, interesting."
 </p>
 
 <p align="center">
-  <i>"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."</i><br>
-  <sub>-- Martin Fowler</sub>
+  <i>"C makes it easy to shoot yourself in the foot; C++ makes it harder, but when you do it blows your whole leg off."</i><br>
+  <sub>-- Bjarne Stroustrup</sub>
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00ff41&height=100&section=footer" width="100%" />
