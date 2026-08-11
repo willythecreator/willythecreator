@@ -1,40 +1,94 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 120" width="600" height="120">
-  <rect width="600" height="120" fill="#0d1117" rx="8"/>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 160" width="600" height="160">
+  <rect width="600" height="160" fill="#0d1117" rx="8"/>
   <rect x="0" y="0" width="600" height="28" fill="#161b22" rx="8"/>
   <circle cx="16" cy="14" r="5" fill="#ff5f57"/>
   <circle cx="32" cy="14" r="5" fill="#ffbd2e"/>
   <circle cx="48" cy="14" r="5" fill="#28c840"/>
   <text x="70" y="19" font-family="monospace" font-size="11" fill="#8b949e">willythecreator@dev:~$</text>
-  <text x="195" y="55" font-family="monospace" font-size="13" fill="#6e40c9" font-weight="bold">
+
+  <text x="195" y="50" font-family="monospace" font-size="13" fill="#6e40c9" font-weight="bold">
     <tspan x="195" dy="0" fill="#6e40c9">>_</tspan>
     <tspan x="215" dy="0" fill="#c9d1d9">self-taught developer</tspan>
   </text>
-  <text x="195" y="75" font-family="monospace" font-size="13" fill="#6e40c9" font-weight="bold">
+  <text x="195" y="70" font-family="monospace" font-size="13" fill="#6e40c9" font-weight="bold">
     <tspan x="195" dy="0" fill="#6e40c9">>_</tspan>
     <tspan x="215" dy="0" fill="#c9d1d9">systems  .  emulation  .  cosmos</tspan>
   </text>
-  <text x="195" y="95" font-family="monospace" font-size="13" fill="#6e40c9" font-weight="bold">
+  <text x="195" y="90" font-family="monospace" font-size="13" fill="#6e40c9" font-weight="bold">
     <tspan x="195" dy="0" fill="#6e40c9">>_</tspan>
-    <tspan x="215" dy="0" fill="#58a6ff">building Advance-Pocket (GBA emulator)<tspan fill="#58a6ff"><animate attributeName="opacity" values="0;1;0" dur="1s" repeatCount="indefinite"/>|</tspan></tspan>
+    <tspan x="215" dy="0" fill="#58a6ff">building Advance-Pocket (GBA emulator)</tspan>
   </text>
-  <circle cx="500" cy="100" r="1.5" fill="#6e40c9" opacity="0">
-    <animate attributeName="cy" values="100;60" dur="3s" repeatCount="indefinite"/>
+  <text x="195" y="110" font-family="monospace" font-size="13" fill="#6e40c9" font-weight="bold">
+    <tspan x="195" dy="0" fill="#6e40c9">>_</tspan>
+    <tspan x="215" dy="0" fill="#8fffb0">tracing geodesics around a black hole...<tspan fill="#8fffb0"><animate attributeName="opacity" values="0;1;0" dur="1s" repeatCount="indefinite"/>|</tspan></tspan>
+  </text>
+
+  <!-- rotating log ticker -->
+  <text x="300" y="135" font-family="monospace" font-size="11" fill="#8b949e" text-anchor="middle" opacity="0">$ hey...<animate attributeName="opacity" values="0;1;1;0;0" keyTimes="0.0;0.00439;0.02;0.02439;1" dur="90.2s" repeatCount="indefinite"/></text>
+  <text x="300" y="135" font-family="monospace" font-size="11" fill="#58a6ff" text-anchor="middle" opacity="0">$ I hate myself<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.02439;0.02878;0.04439;0.04878;1" dur="90.2s" repeatCount="indefinite"/></text>
+  <text x="300" y="135" font-family="monospace" font-size="11" fill="#6e40c9" text-anchor="middle" opacity="0">$ Shotout to Yoko Ono<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.04878;0.053171;0.06878;0.073171;1" dur="90.2s" repeatCount="indefinite"/></text>
+  <text x="300" y="135" font-family="monospace" font-size="11" fill="#8fffb0" text-anchor="middle" opacity="0">$ Yeah this doesn't work at all<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.073171;0.077561;0.093171;0.097561;1" dur="90.2s" repeatCount="indefinite"/></text>
+  <text x="300" y="135" font-family="monospace" font-size="11" fill="#ff7b72" text-anchor="middle" opacity="0">$ What am I even doing<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.097561;0.101951;0.117561;0.121951;1" dur="90.2s" repeatCount="indefinite"/></text>
+  <text x="300" y="135" font-family="monospace" font-size="11" fill="#f2cc60" text-anchor="middle" opacity="0">$ I can't believe you're reading every single quote<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.121951;0.126341;0.141951;0.146341;1" dur="90.2s" repeatCount="indefinite"/></text>
+  <text x="300" y="135" font-family="monospace" font-size="11" fill="#8b949e" text-anchor="middle" opacity="0">$ Maybe if i put the lyrics of a song you would stop<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.146341;0.150732;0.166341;0.170732;1" dur="90.2s" repeatCount="indefinite"/></text>
+  <text x="300" y="135" font-family="monospace" font-size="11" fill="#58a6ff" text-anchor="middle" opacity="0">$ Please stop reading<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.170732;0.175122;0.190732;0.195122;1" dur="90.2s" repeatCount="indefinite"/></text>
+  <text x="300" y="135" font-family="monospace" font-size="11" fill="#6e40c9" text-anchor="middle" opacity="0">$ Who are you<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.195122;0.199512;0.215122;0.219512;1" dur="90.2s" repeatCount="indefinite"/></text>
+  <text x="300" y="135" font-family="monospace" font-size="11" fill="#8fffb0" text-anchor="middle" opacity="0">$ Another error<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.219512;0.223902;0.239512;0.243902;1" dur="90.2s" repeatCount="indefinite"/></text>
+  <text x="300" y="135" font-family="monospace" font-size="11" fill="#ff7b72" text-anchor="middle" opacity="0">$ Too many lines<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.243902;0.248293;0.263902;0.268293;1" dur="90.2s" repeatCount="indefinite"/></text>
+  <text x="300" y="135" font-family="monospace" font-size="11" fill="#f2cc60" text-anchor="middle" opacity="0">$ It works (I won't touch it for a month)<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.268293;0.272683;0.288293;0.292683;1" dur="90.2s" repeatCount="indefinite"/></text>
+  <text x="300" y="135" font-family="monospace" font-size="11" fill="#8b949e" text-anchor="middle" opacity="0">$ It doesn't work (I won't touch it for a month)<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.292683;0.297073;0.312683;0.317073;1" dur="90.2s" repeatCount="indefinite"/></text>
+  <text x="300" y="135" font-family="monospace" font-size="11" fill="#58a6ff" text-anchor="middle" opacity="0">$ 1v1 in Cod?<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.317073;0.321463;0.337073;0.341463;1" dur="90.2s" repeatCount="indefinite"/></text>
+  <text x="300" y="135" font-family="monospace" font-size="11" fill="#6e40c9" text-anchor="middle" opacity="0">$ You should listen to Knocked Loose<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.341463;0.345854;0.361463;0.365854;1" dur="90.2s" repeatCount="indefinite"/></text>
+  <text x="300" y="135" font-family="monospace" font-size="11" fill="#8fffb0" text-anchor="middle" opacity="0">$ Mira, uno en espanol para bilingues<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.365854;0.370244;0.385854;0.390244;1" dur="90.2s" repeatCount="indefinite"/></text>
+  <text x="300" y="135" font-family="monospace" font-size="11" fill="#ff7b72" text-anchor="middle" opacity="0">$ Imaginate cambiar de ingles a espanol<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.390244;0.394634;0.410244;0.414634;1" dur="90.2s" repeatCount="indefinite"/></text>
+  <text x="300" y="135" font-family="monospace" font-size="11" fill="#f2cc60" text-anchor="middle" opacity="0">$ Me cago en todo<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.414634;0.419024;0.434634;0.439024;1" dur="90.2s" repeatCount="indefinite"/></text>
+  <text x="300" y="135" font-family="monospace" font-size="11" fill="#8b949e" text-anchor="middle" opacity="0">$ Sickes<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.439024;0.443415;0.459024;0.463415;1" dur="90.2s" repeatCount="indefinite"/></text>
+  <text x="300" y="135" font-family="monospace" font-size="11" fill="#58a6ff" text-anchor="middle" opacity="0">$ Sweeeeeeeeeeeet<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.463415;0.467805;0.483415;0.487805;1" dur="90.2s" repeatCount="indefinite"/></text>
+  <text x="300" y="135" font-family="monospace" font-size="11" fill="#6e40c9" text-anchor="middle" opacity="0">$ End me<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.487805;0.492195;0.507805;0.512195;1" dur="90.2s" repeatCount="indefinite"/></text>
+  <text x="300" y="135" font-family="monospace" font-size="11" fill="#8fffb0" text-anchor="middle" opacity="0">$ Pero bueno<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.512195;0.516585;0.532195;0.536585;1" dur="90.2s" repeatCount="indefinite"/></text>
+  <text x="300" y="135" font-family="monospace" font-size="11" fill="#ff7b72" text-anchor="middle" opacity="0">$ Love MCR<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.536585;0.540976;0.556585;0.560976;1" dur="90.2s" repeatCount="indefinite"/></text>
+  <text x="300" y="135" font-family="monospace" font-size="11" fill="#f2cc60" text-anchor="middle" opacity="0">$ Also love deathcore<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.560976;0.565366;0.580976;0.585366;1" dur="90.2s" repeatCount="indefinite"/></text>
+  <text x="300" y="135" font-family="monospace" font-size="11" fill="#8b949e" text-anchor="middle" opacity="0">$ Djent<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.585366;0.589756;0.605366;0.609756;1" dur="90.2s" repeatCount="indefinite"/></text>
+  <text x="300" y="135" font-family="monospace" font-size="11" fill="#58a6ff" text-anchor="middle" opacity="0">$ sdwej;fij;oivja;fjae;avroeigerjbojgoajw;fjalvi<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.609756;0.614146;0.629756;0.634146;1" dur="90.2s" repeatCount="indefinite"/></text>
+  <text x="300" y="135" font-family="monospace" font-size="11" fill="#6e40c9" text-anchor="middle" opacity="0">$ Fire<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.634146;0.638537;0.654146;0.658537;1" dur="90.2s" repeatCount="indefinite"/></text>
+  <text x="300" y="135" font-family="monospace" font-size="11" fill="#8fffb0" text-anchor="middle" opacity="0">$ Legit fire<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.658537;0.662927;0.678537;0.682927;1" dur="90.2s" repeatCount="indefinite"/></text>
+  <text x="300" y="135" font-family="monospace" font-size="11" fill="#ff7b72" text-anchor="middle" opacity="0">$ SKIAT<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.682927;0.687317;0.702927;0.707317;1" dur="90.2s" repeatCount="indefinite"/></text>
+  <text x="300" y="135" font-family="monospace" font-size="11" fill="#f2cc60" text-anchor="middle" opacity="0">$ fr<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.707317;0.711707;0.727317;0.731707;1" dur="90.2s" repeatCount="indefinite"/></text>
+  <text x="300" y="135" font-family="monospace" font-size="11" fill="#8b949e" text-anchor="middle" opacity="0">$ Surrounded by milfs at Taco Bell<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.731707;0.736098;0.751707;0.756098;1" dur="90.2s" repeatCount="indefinite"/></text>
+  <text x="300" y="135" font-family="monospace" font-size="11" fill="#58a6ff" text-anchor="middle" opacity="0">$ Metalcore is the goat of genres<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.756098;0.760488;0.776098;0.780488;1" dur="90.2s" repeatCount="indefinite"/></text>
+  <text x="300" y="135" font-family="monospace" font-size="11" fill="#6e40c9" text-anchor="middle" opacity="0">$ Yeah<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.780488;0.784878;0.800488;0.804878;1" dur="90.2s" repeatCount="indefinite"/></text>
+  <text x="300" y="135" font-family="monospace" font-size="11" fill="#8fffb0" text-anchor="middle" opacity="0">$ Somehow I made websites<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.804878;0.809268;0.824878;0.829268;1" dur="90.2s" repeatCount="indefinite"/></text>
+  <text x="300" y="135" font-family="monospace" font-size="11" fill="#ff7b72" text-anchor="middle" opacity="0">$ I love coding errors<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.829268;0.833659;0.849268;0.853659;1" dur="90.2s" repeatCount="indefinite"/></text>
+  <text x="300" y="135" font-family="monospace" font-size="11" fill="#f2cc60" text-anchor="middle" opacity="0">$ I can make 500 quotes every single day for this specific code so you can keep watching<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.853659;0.858049;0.873659;0.878049;1" dur="90.2s" repeatCount="indefinite"/></text>
+  <text x="300" y="135" font-family="monospace" font-size="11" fill="#8b949e" text-anchor="middle" opacity="0">$ Man I Love MLinkin Park<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.878049;0.882439;0.898049;0.902439;1" dur="90.2s" repeatCount="indefinite"/></text>
+  <text x="300" y="135" font-family="monospace" font-size="11" fill="#58a6ff" text-anchor="middle" opacity="0">$ Sikes again<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.902439;0.906829;0.922439;0.926829;1" dur="90.2s" repeatCount="indefinite"/></text>
+  <text x="300" y="135" font-family="monospace" font-size="11" fill="#6e40c9" text-anchor="middle" opacity="0">$ What am I even doing<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.926829;0.93122;0.946829;0.95122;1" dur="90.2s" repeatCount="indefinite"/></text>
+  <text x="300" y="135" font-family="monospace" font-size="11" fill="#8fffb0" text-anchor="middle" opacity="0">$ Hi<animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.95122;0.95561;0.97122;0.97561;1" dur="90.2s" repeatCount="indefinite"/></text>
+  <text x="300" y="135" font-family="monospace" font-size="11" fill="#ff7b72" text-anchor="middle" opacity="0">$ HII<animate attributeName="opacity" values="0;0;1;1;0" keyTimes="0;0.97561;0.98;0.99561;1" dur="90.2s" repeatCount="indefinite"/></text>
+
+  <!-- floating particles -->
+  <circle cx="500" cy="140" r="1.5" fill="#6e40c9" opacity="0">
+    <animate attributeName="cy" values="140;60" dur="3s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0;0.8;0" dur="3s" repeatCount="indefinite"/>
   </circle>
-  <circle cx="520" cy="110" r="1" fill="#58a6ff" opacity="0">
-    <animate attributeName="cy" values="110;50" dur="4s" repeatCount="indefinite"/>
+  <circle cx="520" cy="150" r="1" fill="#58a6ff" opacity="0">
+    <animate attributeName="cy" values="150;50" dur="4s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0;0.6;0" dur="4s" repeatCount="indefinite"/>
   </circle>
-  <circle cx="540" cy="95" r="1.5" fill="#6e40c9" opacity="0">
-    <animate attributeName="cy" values="95;55" dur="3.5s" repeatCount="indefinite"/>
+  <circle cx="540" cy="135" r="1.5" fill="#6e40c9" opacity="0">
+    <animate attributeName="cy" values="135;55" dur="3.5s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0;0.7;0" dur="3.5s" repeatCount="indefinite"/>
   </circle>
-  <circle cx="560" cy="105" r="1" fill="#c9d1d9" opacity="0">
-    <animate attributeName="cy" values="105;45" dur="5s" repeatCount="indefinite"/>
+  <circle cx="560" cy="145" r="1" fill="#c9d1d9" opacity="0">
+    <animate attributeName="cy" values="145;45" dur="5s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0;0.5;0" dur="5s" repeatCount="indefinite"/>
   </circle>
-  <circle cx="480" cy="90" r="1" fill="#58a6ff" opacity="0">
-    <animate attributeName="cy" values="90;50" dur="2.5s" repeatCount="indefinite"/>
+  <circle cx="480" cy="120" r="1" fill="#58a6ff" opacity="0">
+    <animate attributeName="cy" values="120;50" dur="2.5s" repeatCount="indefinite"/>
     <animate attributeName="opacity" values="0;0.9;0" dur="2.5s" repeatCount="indefinite"/>
   </circle>
+
+  <rect x="0" y="0" width="600" height="160" fill="#6e40c9" opacity="0" rx="8">
+    <animate attributeName="opacity" values="0;0.03;0" dur="6s" repeatCount="indefinite"/>
+  </rect>
 </svg>
