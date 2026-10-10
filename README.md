@@ -5,7 +5,7 @@
 <img src="terminal.svg" width="600" alt="terminal" />
 
 <a href="https://github.com/willythecreator">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=600&lines=booting+REAPER-OS...;compiling+Advance-Pocket...;tracing+geodesics+around+a+black+hole...;optimize.+right.+interesting." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&width=600&lines=booting+ArcByte+OS...;compiling+Advance-Pocket...;tracing+geodesics+around+a+black+hole...;optimize.+right.+interesting." alt="Typing SVG" />
 </a>
 
 <br>
@@ -18,6 +18,19 @@
 
 ---
 
+### `> whoami`
+
+```bash
+$ whoami
+  builder of emulators · tracer of geodesics · low-level enthusiast
+  currently shipping: ArcByte OS (interactive portfolio)
+
+$ ./focus.sh
+  - emulation & reverse engineering
+  - astrophysics / cosmology simulators
+  - squeezing performance out of silicon
+```
+
 ### `> Orbit`
 
 ```yaml
@@ -27,9 +40,32 @@ focus:
   - Gameboy Advance emulator (Advance-Pocket)
   - Astrophysics & cosmology simulators
   - Low-level optimization
+  - Interactive portfolio (ArcByte OS)
 learning: [CS50, LLMs, AI security, systems programming]
 philosophy: "Optimize, right, interesting."
 ```
+
+### `> Portfolio`
+
+<p align="center">
+  <a href="https://willythecreator.vercel.app">
+    <img src="https://img.shields.io/badge/Visit_Portfolio-willythecreator.vercel.app-00ff41?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" />
+  </a>
+</p>
+
+### `> Featured`
+
+<p align="center">
+  <a href="https://github.com/willythecreator/Advance-Pocket">
+    <img src="https://img.shields.io/badge/Advance--Pocket-GBA_Emulator%20%C2%B7%20C%2B%2B-00ff41?style=for-the-badge&labelColor=0d1117" />
+  </a>
+  <a href="https://github.com/willythecreator/Schwarzschild-black-hole-geodesic-tracer">
+    <img src="https://img.shields.io/badge/Schwarzschild-GPU%20Geodesic%20Tracer-00ff41?style=for-the-badge&labelColor=0d1117" />
+  </a>
+  <a href="https://github.com/willythecreator/portfolio">
+    <img src="https://img.shields.io/badge/ArcByte%20OS-Interactive%20Portfolio-00ff41?style=for-the-badge&labelColor=0d1117" />
+  </a>
+</p>
 
 ### `> Tech Stack`
 
@@ -63,7 +99,7 @@ philosophy: "Optimize, right, interesting."
 
 | Project | Description |
 |---------|-------------|
-| Schwarzschild Black Hole Geodesic Tracer | Real-time GPU geodesic ray tracer with accretion disk, Doppler beaming, FBM turbulence (C++/OpenGL/GLSL) |
+| [Schwarzschild Black Hole Geodesic Tracer](https://github.com/willythecreator/Schwarzschild-black-hole-geodesic-tracer) | Real-time GPU geodesic ray tracer with accretion disk, Doppler beaming, FBM turbulence (C++/OpenGL/GLSL) |
 | Gravitational Lensing Ray Tracer | Simulate lensing from massive objects |
 | Three-Body Problem Visualizer | Chaotic N-body orbital mechanics |
 | Two-Body Gravitational Orbit Simulator | Classical orbital dynamics |
@@ -89,7 +125,7 @@ philosophy: "Optimize, right, interesting."
 | Perlin Noise Terrain Generator | Heightmap generation |
 | Barnsley Fern Renderer | IFS fractal renderer |
 | Lissajous Curve Animator | Parametric curve visualization |
-| Spinning Donut | ASCII 3D donut in C |
+| [Spinning Donut](https://github.com/willythecreator/Spinning-Donut) | ASCII 3D donut in C |
 
 </details>
 
@@ -143,6 +179,17 @@ philosophy: "Optimize, right, interesting."
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/willythecreator/willythecreator/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
+</p>
+
+### `> Contact`
+
+<p align="center">
+  <a href="https://github.com/willythecreator">
+    <img src="https://img.shields.io/badge/GitHub-willythecreator-00ff41?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117" />
+  </a>
+  <a href="https://willythecreator.vercel.app">
+    <img src="https://img.shields.io/badge/Portfolio-willythecreator.vercel.app-00ff41?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" />
+  </a>
 </p>
 
 <p align="center">
